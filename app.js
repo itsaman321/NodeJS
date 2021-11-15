@@ -1,1 +1,1 @@
-console.log("mobile") ;
+console.log(" IS ended") ;
